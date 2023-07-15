@@ -45,7 +45,7 @@ html{
     font-size: 1.9rem;
     margin-left: 1rem;
     padding: 1rem;
-    color: bg-dark;
+    color: white;
 }
 .navbar a:hover{
     color: var(--secondclr);
