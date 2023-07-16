@@ -35,17 +35,17 @@ html{
     background-color: white;
 }
 .header #logo{
-    color: bg-dark;
+    color: black;
     font-size: 3rem;
 }
 .header #logo span{
     color: var(--secondclr);
 }
 .navbar a{
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     margin-left: 1rem;
     padding: 1rem;
-    color: white;
+    color: var(--maincolor);
 }
 .navbar a:hover{
     color: var(--secondclr);
