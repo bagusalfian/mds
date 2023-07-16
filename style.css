@@ -292,7 +292,8 @@ html{
 .contact p {
     text-align: center;
 }
-@media (max-width:768px) {
+@media (max-width:768px)
+{
     html{
         font-size: 55%;
     }
